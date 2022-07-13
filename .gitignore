@@ -1,0 +1,11 @@
+# Distribution / packaging
+.Python
+virtualenv/
+*.sqlite3
+.idea/
+# Editor directories and files
+.idea
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
